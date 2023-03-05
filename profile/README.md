@@ -17,6 +17,7 @@ Experimentar con nuevas herramientas y frameworks para el desarrollo web.
 Hasta el momento, las aplicaciones utilizadas en Jugo son las siguientes:
 
 Visual Studio Code: Editor de código
+
 MobaXterm: Terminal
 
 Si te interesa contribuir al proyecto, por favor ponte en contacto conmigo por correo electrónico. Cualquier aporte o sugerencia será bienvenida.
