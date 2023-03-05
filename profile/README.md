@@ -21,4 +21,4 @@ MobaXterm: Terminal
 Si te interesa contribuir al proyecto, por favor ponte en contacto conmigo por correo electrónico. Cualquier aporte o sugerencia será bienvenida.
 
 # Licencia
-Este proyecto está bajo la licencia MIT. Puedes consultar el archivo LICENSE.md para más detalles.
+Este proyecto está bajo la [licencia MIT](https://github.com/Jugo-dev/.github/blob/main/LICENCE). Puedes consultar el archivo LICENSE para más detalles.
