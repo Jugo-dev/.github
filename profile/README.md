@@ -8,8 +8,8 @@ CSS
 JavaScript
 MySQL
 
-#Objetivos
-Desarrollar aplicaciones web con diferentes funcionalidades utilizando tecnologías web modernas.
+# Objetivos
+Desarrollar aplicaciones web con diferentes funcionalidades utilizando tecnologías web.
 Aprender y mejorar mis habilidades de programación en PHP, HTML, CSS, JavaScript y MySQL.
 Experimentar con nuevas herramientas y frameworks para el desarrollo web.
 
