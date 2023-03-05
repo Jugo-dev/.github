@@ -2,11 +2,11 @@
 Jugo es un proyecto personal de desarrollo web en el que estaré creando diferentes aplicaciones utilizando tecnologías como PHP, HTML, CSS, entre otras.
 
 # Tecnologías utilizadas
-PHP
-HTML
-CSS
-JavaScript
-MySQL
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
 
 # Objetivos
 Desarrollar aplicaciones web con diferentes funcionalidades utilizando tecnologías web.
@@ -16,9 +16,8 @@ Experimentar con nuevas herramientas y frameworks para el desarrollo web.
 # Aplicaciones
 Hasta el momento, las aplicaciones utilizadas en Jugo son las siguientes:
 
-Visual Studio Code: Editor de código
-
-MobaXterm: Terminal
+- Visual Studio Code: Editor de código
+- MobaXterm: Terminal
 
 Si te interesa contribuir al proyecto, por favor ponte en contacto conmigo por correo electrónico. Cualquier aporte o sugerencia será bienvenida.
 
