@@ -14,7 +14,7 @@ Aprender y mejorar mis habilidades de programación en PHP, HTML, CSS, JavaScrip
 Experimentar con nuevas herramientas y frameworks para el desarrollo web.
 
 # Aplicaciones
-Hasta el momento, las aplicaciones desarrolladas en Jugo son las siguientes:
+Hasta el momento, las aplicaciones utilizadas en Jugo son las siguientes:
 
 Visual Studio Code: Editor de código
 MobaXterm: Terminal
