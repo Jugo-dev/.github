@@ -22,4 +22,4 @@ Hasta el momento, las aplicaciones utilizadas en Jugo son las siguientes:
 Si te interesa contribuir al proyecto, por favor ponte en contacto conmigo por correo electrónico. Cualquier aporte o sugerencia será bienvenida.
 
 # Licencia
-Este proyecto está bajo la [licencia MIT](https://github.com/Jugo-dev/.github/blob/main/LICENCE). Puedes consultar el archivo LICENSE para más detalles.
+Este proyecto está bajo la [licencia Creative Commons](https://github.com/Jugo-dev/.github/blob/main/LICENCE). Puedes consultar el archivo LICENSE para más detalles.
